@@ -1,0 +1,12 @@
+#ProfilePic {
+    border-radius: 200px;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+  }
+
+  
+.body{
+    background-color: rgb(225, 234, 235);
+}
+ 

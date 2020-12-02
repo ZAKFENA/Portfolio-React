@@ -1,0 +1,13 @@
+.navbar{
+    justify-content: left;
+}
+
+.logo{
+    width: 125px;
+    height: 125px;
+}
+
+.navbar-nav{
+    justify-content: center;
+    margin-left: 250px;
+}
