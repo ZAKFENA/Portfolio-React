@@ -1,13 +1,17 @@
-.navbar{
-    justify-content: left;
-}
+.nav{
+    margin-top: 10px;
+align-content: center;
 
-.logo{
-    width: 125px;
-    height: 125px;
-}
+justify-self: center;}
 
-.navbar-nav{
-    justify-content: center;
-    margin-left: 250px;
+/* .logo{
+    margin-right: 100px;
+    width: 100px;
+    height: 100px;
 }
+*/
+
+.nav-item{
+    margin-bottom: 0px; 
+    margin-left: 25px;
+justify-self: center;} 
